@@ -1,4 +1,4 @@
-baseURL = "https://timbaolan.github.io/portfolio"
+baseURL = "https://timbaolan.github.io/portfolio/"
 languageCode = "en-us"
 title = "Minimal"
 theme = "minimal"
@@ -44,17 +44,17 @@ publishDir = "docs"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/timbaolan/"
     name = "github"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/username/"
+    url = "https://twitter.com/timbaolan/"
     name = "twitter"
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
+    url = "https://www.linkedin.com/in/timbaolan/"
     name = "linkedin"
     weight = 4
 
