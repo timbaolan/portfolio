@@ -1,4 +1,4 @@
-baseURL = "https://timbaolan.github.io/portfolio/"
+baseURL = "https://timbaolan.github.io/portfolio"
 languageCode = "en-us"
 title = "Minimal"
 theme = "minimal"
