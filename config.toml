@@ -1,9 +1,11 @@
-baseURL = "http://example.com/"
+baseURL = "https://timbaolan.github.io/portfolio/"
 languageCode = "en-us"
 title = "Minimal"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
+
+publishDir = "docs"
 
 [params]
     author = "Calin Tataru"
