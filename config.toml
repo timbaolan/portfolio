@@ -1,19 +1,18 @@
+publishDir = "docs"
 baseURL = "https://timbaolan.github.io/portfolio/"
 languageCode = "en-us"
-title = "Minimal"
+title = "timbaolan"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
-publishDir = "docs"
-
 [params]
     author = "Calin Tataru"
-    description = "Personal blog theme powered by Hugo"
+    description = "Graphic artist, web designer/developer, gamer, b-baller, soccer player, sushi eater."
     githubUsername = "#"
-    accent = "red"
+    accent = "#0ae"
     showBorder = true
-    backgroundColor = "white"
+    backgroundColor = "#101215"
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "solarized-dark"
@@ -49,16 +48,16 @@ publishDir = "docs"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/username/"
-    name = "twitter"
+    url = "https://artstation.com/artist/timbaolan/"
+    name = "artstation"
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
+    url = "https://www.linkedin.com/in/baolan/"
     name = "linkedin"
     weight = 4
 
-[[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "stack-overflow"
-    weight = 5
+# [[menu.icon]]
+#     url = "https://www.stackoverflow.com/username/"
+#     name = "stack-overflow"
+#     weight = 5
