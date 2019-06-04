@@ -29,12 +29,12 @@ main {
 }
 
 .intro > h1 {
-    color: #212121;
+    color: var(--accent);
     font-size: 12vh;
 }
 
 .intro > h2 {
-    color: #757575;
+    color: white;
     font-size: 3vmin;
 }
 
@@ -72,10 +72,34 @@ a:hover {
 
 .item {
     padding: 10px 0;
+    min-width: 600px;
+    text-align: left;
 }
 
 .item-tag {
     background-color: var(--accent);
+}
+
+main h2 {
+    color: white;
+}
+
+.item h2 {
+    color: var(--accent);
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.item h5, .item p {
+    color: white;
+}
+
+/*navigation bar*/
+
+.navbar.navbar-default {
+    background-color: #101215;
+    border-bottom: none;
 }
 
 /*navigation bar icons*/
@@ -85,10 +109,18 @@ a:hover {
     display: inline-block !important;
 }
 
+.navbar-default .navbar-nav>li>a {
+    color: var(--accent) !important;
+}
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>li>a:hover {
+    color: white !important;
+}
+
 /*coloured borders at top and bottom of the page*/
 
 .navbar.navbar-default {
-    border-top: var(--border-width) solid var(--accent);
+    border-left: var(--border-width) solid var(--accent);
 }
 
 footer {
@@ -97,4 +129,8 @@ footer {
 
 img {
     max-width: 100%;
+}
+
+iframe {
+    border: none;
 }

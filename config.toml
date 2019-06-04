@@ -1,10 +1,10 @@
 publishDir = "docs"
 baseURL = "https://timbaolan.github.io/portfolio/"
 languageCode = "en-us"
-title = "timbaolan"
+title = "baolan"
 theme = "minimal"
-disqusShortname = "username" # delete this to disable disqus comments
-googleAnalytics = ""
+# disqusShortname = "username" # delete this to disable disqus comments
+googleAnalytics = "UA-43728553-1"
 
 [params]
     author = "Bao-Lan Nguyen-Phuoc"
@@ -53,16 +53,16 @@ googleAnalytics = ""
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/timbaolan/"
-    name = "github"
-    weight = 2
-
-[[menu.icon]]
     url = "https://www.linkedin.com/in/baolan/"
     name = "linkedin"
-    weight = 3
+    weight = 2
 
 [[menu.icon]]
     url = "https://artstation.com/artist/timbaolan/"
     name = "artstation"
-    weight = 4
+    weight = 3
+
+# [[menu.icon]]
+#     url = "https://github.com/timbaolan/"
+#     name = "github"
+#     weight = 4
