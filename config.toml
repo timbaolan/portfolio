@@ -43,18 +43,18 @@ googleAnalytics = ""
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/timbaolan/"
     name = "github"
     weight = 2
 
 [[menu.icon]]
-    url = "https://artstation.com/artist/timbaolan/"
-    name = "artstation"
+    url = "https://www.linkedin.com/in/baolan/"
+    name = "linkedin"
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/baolan/"
-    name = "linkedin"
+    url = "https://artstation.com/artist/timbaolan/"
+    name = "artstation"
     weight = 4
 
 # [[menu.icon]]
