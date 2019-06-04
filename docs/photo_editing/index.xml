@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photo_editings on baolan</title>
+    <link>https://timbaolan.github.io/portfolio/photo_editing/</link>
+    <description>Recent content in Photo_editings on baolan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://timbaolan.github.io/portfolio/photo_editing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>National Bank (at M&amp;H)</title>
+      <link>https://timbaolan.github.io/portfolio/photo_editing/bn/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://timbaolan.github.io/portfolio/photo_editing/bn/</guid>
+      <description>Ceci est une image retouchée.</description>
+    </item>
+    
+  </channel>
+</rss>
