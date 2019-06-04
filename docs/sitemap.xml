@@ -13,12 +13,6 @@
   </url>
   
   <url>
-    <loc>https://timbaolan.github.io/portfolio/</loc>
-    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://timbaolan.github.io/portfolio/post/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -26,6 +20,12 @@
   
   <url>
     <loc>https://timbaolan.github.io/portfolio/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://timbaolan.github.io/portfolio/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
