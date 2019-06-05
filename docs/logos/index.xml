@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logos on baolan</title>
+    <link>https://timbaolan.github.io/portfolio/logos/</link>
+    <description>Recent content in Logos on baolan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://timbaolan.github.io/portfolio/logos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rising Sun</title>
+      <link>https://timbaolan.github.io/portfolio/logos/rising-sun/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://timbaolan.github.io/portfolio/logos/rising-sun/</guid>
+      <description>##Introduction
+Ceci est un logo pour Rising Sun.</description>
+    </item>
+    
+  </channel>
+</rss>
