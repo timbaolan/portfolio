@@ -1,9 +1,13 @@
 ---
 title: "Satsuma imo"
-date: 2019-02-13
+date: 2018-07-01
 draft: true
 ---
 
-##Introduction
+![image1](satsuma-imo-001.jpg)
 
-Ceci est une patate douce.
+![image2](satsuma-imo-002.jpg)
+![image3](satsuma-imo-003.jpg)
+
+
+Personal project: keychain for my extra keys I gave to my girlfriend.
