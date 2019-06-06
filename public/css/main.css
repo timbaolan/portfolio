@@ -39,6 +39,17 @@ main {
     font-size: 3vmin;
 }
 
+.intro h2 ul {
+    margin: auto;
+    width: 45%;
+    list-style-type: square;
+}
+
+.intro > h2 > ul > li {
+    text-align: left;
+    font-size: .675em;
+}
+
 .intro > .profile {
     width: 10vh;
     height: 10vh;

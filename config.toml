@@ -1,4 +1,4 @@
-publishDir = "docs"
+publishDir = "public"
 # baseURL = "https://www.timbaolan.com/"
 languageCode = "en-us"
 title = "baolan"
