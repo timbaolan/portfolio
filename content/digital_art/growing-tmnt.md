@@ -1,7 +1,7 @@
 ---
 title: "Growing TMNT"
 date: 2015-01-25
-draft: true
+draft: false
 ---
 
 ![image1](growing-tmnt-001.jpg)
@@ -11,5 +11,4 @@ draft: true
 ![image3](growing-tmnt-003.jpg)
 ![image2](growing-tmnt-002.jpg)
 
-Personal training<br>
-Growing TMNT concept.
+Personal project: Growing TMNT concept.

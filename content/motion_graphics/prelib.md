@@ -1,9 +1,10 @@
 ---
 title: "Prelib (at M&H)"
 date: 2019-02-13
-draft: true
+draft: false
 ---
 
 {{< youtube id="iOmyNIVBpGs" >}}
 
-Work done at M&H.
+Motion graphics and music editing.<br>
+Work done at M&H Polystudios.

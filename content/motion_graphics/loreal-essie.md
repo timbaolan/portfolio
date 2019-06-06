@@ -1,11 +1,13 @@
 ---
-title: "L’Oréal, Essie (at M&H)"
-date: 2018-12-25
-draft: true
+title: "Essie, by L’Oréal"
+date: 2018-09-25
+draft: false
 ---
 
 {{< youtube id="cZUgSL3__08" >}}
 
 {{< youtube id="dJ4ohgH9LfI" >}}
 
-Work done at M&H You can see entire works below.
+Motion graphics.<br>
+Work done at M&H Polystudios.<br>
+Client: Essie by L'Oréal.

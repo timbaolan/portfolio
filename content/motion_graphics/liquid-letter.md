@@ -1,7 +1,7 @@
 ---
 title: "Liquid letter"
 date: 2018-01-25
-draft: true
+draft: false
 ---
 
 {{< vimeo id="261383149" >}}

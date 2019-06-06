@@ -1,7 +1,7 @@
 ---
 title: "Self-portrait as a Celtic"
 date: 2010-01-25
-draft: true
+draft: false
 ---
 
 ![image4](bl-bos-004.jpg)
