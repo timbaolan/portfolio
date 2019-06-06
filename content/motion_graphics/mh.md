@@ -1,9 +1,10 @@
 ---
-title: "At M&H"
+title: "M&H Polystudios"
 date: 2018-12-25
-draft: true
+draft: false
 ---
 
 {{< vimeo id="266947840" >}}
 
-Work done at M&H You can see entire works below.
+Mini compilation of my work at M&H Polystudios.<br>
+Some full-length works below.

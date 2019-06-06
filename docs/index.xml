@@ -2,201 +2,239 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>baolan</title>
-    <link>https://timbaolan.github.io/portfolio/</link>
+    <link>https://www.timbaolan.com/</link>
     <description>Recent content on baolan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://timbaolan.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.timbaolan.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>National Bank (at M&amp;H)</title>
-      <link>https://timbaolan.github.io/portfolio/photo_editing/bn/</link>
-      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://timbaolan.github.io/portfolio/photo_editing/bn/</guid>
-      <description>Ceci est une image retouchée.</description>
-    </item>
     
     <item>
       <title>Prelib (at M&amp;H)</title>
-      <link>https://timbaolan.github.io/portfolio/motion_graphics/prelib/</link>
+      <link>https://www.timbaolan.com/motion_graphics/prelib/</link>
       <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://timbaolan.github.io/portfolio/motion_graphics/prelib/</guid>
-      <description>Work done at M&amp;amp;H.</description>
+      <guid>https://www.timbaolan.com/motion_graphics/prelib/</guid>
+      <description>Motion graphics and music editing.
+Work done at M&amp;amp;H Polystudios.</description>
     </item>
     
     <item>
-      <title>Rising Sun</title>
-      <link>https://timbaolan.github.io/portfolio/logos/rising-sun/</link>
-      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://timbaolan.github.io/portfolio/logos/rising-sun/</guid>
-      <description>##Introduction
-Ceci est un logo pour Rising Sun.</description>
-    </item>
-    
-    <item>
-      <title>At M&amp;H</title>
-      <link>https://timbaolan.github.io/portfolio/motion_graphics/mh/</link>
+      <title>M&amp;H Polystudios</title>
+      <link>https://www.timbaolan.com/motion_graphics/mh/</link>
       <pubDate>Tue, 25 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://timbaolan.github.io/portfolio/motion_graphics/mh/</guid>
-      <description>Work done at M&amp;amp;H You can see entire works below.</description>
+      <guid>https://www.timbaolan.com/motion_graphics/mh/</guid>
+      <description>Mini compilation of my work at M&amp;amp;H Polystudios.
+Some full-length works below.</description>
     </item>
     
     <item>
-      <title>L’Oréal, Essie (at M&amp;H)</title>
-      <link>https://timbaolan.github.io/portfolio/motion_graphics/loreal-essie/</link>
-      <pubDate>Tue, 25 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Essie, by L’Oréal</title>
+      <link>https://www.timbaolan.com/motion_graphics/loreal-essie/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://timbaolan.github.io/portfolio/motion_graphics/loreal-essie/</guid>
-      <description>Work done at M&amp;amp;H You can see entire works below.</description>
+      <guid>https://www.timbaolan.com/motion_graphics/loreal-essie/</guid>
+      <description>Motion graphics.
+Work done at M&amp;amp;H Polystudios.
+Client: Essie by L&amp;rsquo;Oréal.</description>
     </item>
     
     <item>
       <title>Satsuma imo</title>
-      <link>https://timbaolan.github.io/portfolio/digital_art/satsuma-imo/</link>
+      <link>https://www.timbaolan.com/digital_art/satsuma-imo/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://timbaolan.github.io/portfolio/digital_art/satsuma-imo/</guid>
+      <guid>https://www.timbaolan.com/digital_art/satsuma-imo/</guid>
       <description>Personal project: keychain for my extra keys I gave to my girlfriend.</description>
     </item>
     
     <item>
       <title>Adaptive Movie Title</title>
-      <link>https://timbaolan.github.io/portfolio/motion_graphics/jackson/</link>
+      <link>https://www.timbaolan.com/motion_graphics/jackson/</link>
       <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://timbaolan.github.io/portfolio/motion_graphics/jackson/</guid>
-      <description>Personal training.</description>
+      <guid>https://www.timbaolan.com/motion_graphics/jackson/</guid>
+      <description>Personal training with the help of Videocopilot.</description>
+    </item>
+    
+    <item>
+      <title>Jour de la Terre (at M&amp;H)</title>
+      <link>https://www.timbaolan.com/photo_editing/jdlt/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.timbaolan.com/photo_editing/jdlt/</guid>
+      <description>Clean up, various retouching, background bleed, etc.
+At M&amp;amp;H Polystudios (Montreal).
+Client: Jour de la Terre.</description>
+    </item>
+    
+    <item>
+      <title>National Bank (at M&amp;H)</title>
+      <link>https://www.timbaolan.com/photo_editing/bn/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.timbaolan.com/photo_editing/bn/</guid>
+      <description>Clean up, adding window and new carpet, adjusting to National Bank red colour, various retouching, etc.
+At M&amp;amp;H Polystudios (Montreal).
+Client: National Bank.</description>
     </item>
     
     <item>
       <title>Liquid letter</title>
-      <link>https://timbaolan.github.io/portfolio/motion_graphics/liquid-letter/</link>
+      <link>https://www.timbaolan.com/motion_graphics/liquid-letter/</link>
       <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://timbaolan.github.io/portfolio/motion_graphics/liquid-letter/</guid>
+      <guid>https://www.timbaolan.com/motion_graphics/liquid-letter/</guid>
       <description>Personal training.</description>
     </item>
     
     <item>
       <title>Lân - Home deco</title>
-      <link>https://timbaolan.github.io/portfolio/digital_art/lan/</link>
+      <link>https://www.timbaolan.com/digital_art/lan/</link>
       <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://timbaolan.github.io/portfolio/digital_art/lan/</guid>
+      <guid>https://www.timbaolan.com/digital_art/lan/</guid>
       <description>Personal project: illustration made in 3 variations for my hallway wall.</description>
     </item>
     
     <item>
       <title>Surprise!</title>
-      <link>https://timbaolan.github.io/portfolio/digital_art/surprise/</link>
+      <link>https://www.timbaolan.com/digital_art/surprise/</link>
       <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://timbaolan.github.io/portfolio/digital_art/surprise/</guid>
+      <guid>https://www.timbaolan.com/digital_art/surprise/</guid>
       <description>Personal project.</description>
     </item>
     
     <item>
-      <title>TSO (at M&amp;H)</title>
-      <link>https://timbaolan.github.io/portfolio/motion_graphics/tso/</link>
+      <title>Rising Sun</title>
+      <link>https://www.timbaolan.com/logos/rising-sun/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.timbaolan.com/logos/rising-sun/</guid>
+      <description>Creating a logo with the &amp;ldquo;rising sun&amp;rdquo; kanji.
+Client: Centre d’arts martiaux Rising Sun.</description>
+    </item>
+    
+    <item>
+      <title>TSO</title>
+      <link>https://www.timbaolan.com/motion_graphics/tso/</link>
       <pubDate>Sun, 25 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://timbaolan.github.io/portfolio/motion_graphics/tso/</guid>
-      <description>Work done at M&amp;amp;H.</description>
+      <guid>https://www.timbaolan.com/motion_graphics/tso/</guid>
+      <description>Motion graphics, 2D character animation.
+Work done at M&amp;amp;H Polystudios.
+Client: Toronto Symphonic Orchestra.</description>
     </item>
     
     <item>
       <title>Desert base</title>
-      <link>https://timbaolan.github.io/portfolio/digital_art/desert-base/</link>
+      <link>https://www.timbaolan.com/digital_art/desert-base/</link>
       <pubDate>Fri, 25 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://timbaolan.github.io/portfolio/digital_art/desert-base/</guid>
+      <guid>https://www.timbaolan.com/digital_art/desert-base/</guid>
       <description>Personal project.</description>
     </item>
     
     <item>
       <title>Winter castle</title>
-      <link>https://timbaolan.github.io/portfolio/digital_art/winter-castle/</link>
+      <link>https://www.timbaolan.com/digital_art/winter-castle/</link>
       <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://timbaolan.github.io/portfolio/digital_art/winter-castle/</guid>
-      <description>“Environment” evening classes final project
-at Syn Studio.</description>
+      <guid>https://www.timbaolan.com/digital_art/winter-castle/</guid>
+      <description>&amp;ldquo;Environment&amp;rdquo; classes: final project.
+Evening classes with Donglu Yu at Syn Studio.</description>
     </item>
     
     <item>
       <title>Self-portrait: Lân-Aries-Dog</title>
-      <link>https://timbaolan.github.io/portfolio/digital_art/lan-aries-dog/</link>
+      <link>https://www.timbaolan.com/digital_art/lan-aries-dog/</link>
       <pubDate>Mon, 25 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://timbaolan.github.io/portfolio/digital_art/lan-aries-dog/</guid>
-      <description>“Digital painting” evening classes final project
-at Syn Studio.</description>
+      <guid>https://www.timbaolan.com/digital_art/lan-aries-dog/</guid>
+      <description>&amp;ldquo;Digital painting&amp;rdquo; classes: final project.
+Evening classes with Christian Robert De Massy at Syn Studio.</description>
     </item>
     
     <item>
       <title>Chameleon</title>
-      <link>https://timbaolan.github.io/portfolio/digital_art/chameleon/</link>
+      <link>https://www.timbaolan.com/digital_art/chameleon/</link>
       <pubDate>Sun, 25 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://timbaolan.github.io/portfolio/digital_art/chameleon/</guid>
+      <guid>https://www.timbaolan.com/digital_art/chameleon/</guid>
       <description>Personal project.</description>
     </item>
     
     <item>
       <title>Growing TMNT</title>
-      <link>https://timbaolan.github.io/portfolio/digital_art/growing-tmnt/</link>
+      <link>https://www.timbaolan.com/digital_art/growing-tmnt/</link>
       <pubDate>Sun, 25 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://timbaolan.github.io/portfolio/digital_art/growing-tmnt/</guid>
-      <description>Personal training
-Growing TMNT concept.</description>
+      <guid>https://www.timbaolan.com/digital_art/growing-tmnt/</guid>
+      <description>Personal project: Growing TMNT concept.</description>
     </item>
     
     <item>
       <title>Creatures silhouettes</title>
-      <link>https://timbaolan.github.io/portfolio/digital_art/creatures-silhouettes/</link>
+      <link>https://www.timbaolan.com/digital_art/creatures-silhouettes/</link>
       <pubDate>Fri, 25 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://timbaolan.github.io/portfolio/digital_art/creatures-silhouettes/</guid>
-      <description>Concept art training
+      <guid>https://www.timbaolan.com/digital_art/creatures-silhouettes/</guid>
+      <description>Concept art training.
 Trying Feng Zhu Design silhouette-start technique.</description>
     </item>
     
     <item>
+      <title>Jutoba</title>
+      <link>https://www.timbaolan.com/logos/jutoba/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.timbaolan.com/logos/jutoba/</guid>
+      <description>Logo and mascot.
+Client: Jutoba.</description>
+    </item>
+    
+    <item>
       <title>Self-portrait as a Celtic</title>
-      <link>https://timbaolan.github.io/portfolio/digital_art/bl-bos/</link>
+      <link>https://www.timbaolan.com/digital_art/bl-bos/</link>
       <pubDate>Mon, 25 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://timbaolan.github.io/portfolio/digital_art/bl-bos/</guid>
+      <guid>https://www.timbaolan.com/digital_art/bl-bos/</guid>
       <description>Self-portrait as a Boston Celtics player.</description>
     </item>
     
     <item>
-      <title>Animated typography</title>
-      <link>https://timbaolan.github.io/portfolio/motion_graphics/anim-typo/</link>
-      <pubDate>Mon, 25 Dec 2006 00:00:00 +0000</pubDate>
+      <title>Veterinarian</title>
+      <link>https://www.timbaolan.com/logos/vcc/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://timbaolan.github.io/portfolio/motion_graphics/anim-typo/</guid>
-      <description>Short story and animation in Flash, using typography characters only.
-Based on a given theme: “When 2 letters meet”.
-At school.</description>
+      <guid>https://www.timbaolan.com/logos/vcc/</guid>
+      <description>Suggestion of 2 logo styles: Classic and Modern.
+Client: Clinique Vétérinaire de Courcy.</description>
     </item>
     
     <item>
-      <title>Ninja in a box</title>
-      <link>https://timbaolan.github.io/portfolio/motion_graphics/ninja-box/</link>
-      <pubDate>Thu, 25 Dec 2003 00:00:00 +0000</pubDate>
+      <title>Pure argan oil</title>
+      <link>https://www.timbaolan.com/logos/argan_oil/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       
-      <guid>https://timbaolan.github.io/portfolio/motion_graphics/ninja-box/</guid>
-      <description>Character design and traditional 2D animation.
-At school.</description>
+      <guid>https://www.timbaolan.com/logos/argan_oil/</guid>
+      <description>Creation of a logo and a business card.
+At Biz-net (Belgium).
+Client: Pure Argan Oil.</description>
+    </item>
+    
+    <item>
+      <title>Skeleton arm</title>
+      <link>https://www.timbaolan.com/digital_art/skeleton-arm/</link>
+      <pubDate>Sun, 25 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.timbaolan.com/digital_art/skeleton-arm/</guid>
+      <description>Modeling and texturing a bones arm.
+At HEAJ school (Belgium).</description>
     </item>
     
   </channel>
