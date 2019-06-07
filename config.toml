@@ -26,17 +26,17 @@ googleAnalytics = "UA-43728553-1"
 #     weight = 1
 
 [[menu.main]]
-    url = "/motion_graphics/"
+    url = "/motion graphics/"
     name = "Motion Graphics"
     weight = 2
 
 [[menu.main]]
-    url = "/digital_art/"
+    url = "/digital art/"
     name = "Digital Art"
     weight = 3
 
 [[menu.main]]
-    url = "/photo_editing/"
+    url = "/photo editing/"
     name = "Photo Editing"
     weight = 4
 
