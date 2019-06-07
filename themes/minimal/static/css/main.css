@@ -17,6 +17,16 @@ main {
     width: 100%;
 }
 
+.navbar-brand {
+    padding: 5px !important;
+    width: 100px;
+}
+
+.navbar-brand>img {
+    border: none !important;
+    margin: 0;
+}
+
 /*footer*/
 
 .copyright {
@@ -229,19 +239,37 @@ img {
 @media only screen and (min-width: 755px) {
 
 
-        img:first-child:nth-last-child(3),
-        img:first-child:nth-last-child(3) ~ img
-        {
-            width: 32.3%;
-        }
+    img:first-child:nth-last-child(3),
+    img:first-child:nth-last-child(3) ~ img
+    {
+        width: 32.3%;
+    }
 
-        img:first-child:nth-last-child(2),
-        img:first-child:nth-last-child(2) ~ img,
-        img:first-child:nth-last-child(4),
-        img:first-child:nth-last-child(4) ~ img
-        {
-            width: 49.3%;
-        }
+    img:first-child:nth-last-child(2),
+    img:first-child:nth-last-child(2) ~ img,
+    img:first-child:nth-last-child(4),
+    img:first-child:nth-last-child(4) ~ img
+    {
+        width: 49.3%;
+    }
+
+
+}
+
+
+
+
+
+@media only screen and (min-width: 768px) {
+
+
+    .navbar-nav>li>a {
+        padding: 20px !important;
+    }
+
+    .navbar-nav:first-of-type {
+        margin-left: 25px !important;
+    }
 
 
 }
