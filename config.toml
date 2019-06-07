@@ -26,8 +26,8 @@ googleAnalytics = "UA-43728553-1"
 #     weight = 1
 
 [[menu.main]]
-    url = "/motion_graphics/"
-    name = "Motion Graphics"
+    url = "/motion_graphic/"
+    name = "Motion Graphic"
     weight = 2
 
 [[menu.main]]
@@ -41,8 +41,8 @@ googleAnalytics = "UA-43728553-1"
     weight = 4
 
 [[menu.main]]
-    url = "/logos/"
-    name = "Logos"
+    url = "/logo/"
+    name = "Logo"
     weight = 5
 
 
