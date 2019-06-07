@@ -17,7 +17,7 @@
     {{ with .Description }} {{ $.Scratch.Set "subtitle" . }} {{ end }}
 
     <!-- <h4><a href="{{ .Scratch.Get "link" }}">{{ .Title }}</a></h4> -->
-    <h2>{{ .Title }}</a></h2>
+    <h2>{{ .Title }}</h2>
     {{ .Content }}
     <h5>{{ $.Scratch.Get "subtitle" }}</h5>
     {{ range .Params.tags }}
