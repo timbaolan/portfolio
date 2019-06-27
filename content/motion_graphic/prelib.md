@@ -1,5 +1,5 @@
 ---
-title: "Prelib (at M&H)"
+title: "Prelib"
 date: 2019-02-13
 draft: false
 ---
