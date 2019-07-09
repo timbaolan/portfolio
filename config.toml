@@ -9,7 +9,7 @@ googleAnalytics = "UA-43728553-1"
 
 [params]
     author = "Bao-Lan Nguyen-Phuoc"
-    description = "Digital artist, motion designer.\n\n- Photoshop, Illustrator, InDesign\n- After Effects, Premiere, Animate\n- Notions in sound design and in 3DsMax"
+    description = "Motion Designer, Digital Artist.\n\n- After Effects, Premiere, Animate\n- Photoshop, Illustrator, InDesign\n- Notions in sound design and in 3DsMax"
     githubUsername = "timbaolan"
     accent = "#0ae"
     showBorder = true

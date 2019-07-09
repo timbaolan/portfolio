@@ -117,6 +117,10 @@ main h2 {
     color: white;
 }
 
+.item p {
+    margin: 15px 0;
+}
+
 iframe {
     border: none;
 }
