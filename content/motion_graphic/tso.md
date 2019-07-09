@@ -9,5 +9,5 @@ draft: false
 {{< youtube id="6W3n9mVA94o" >}}
 
 Motion graphics, 2D character animation.<br>
-Work done at M&H Polystudios.<br>
+Work done for Haft2 at M&H Polystudios.<br>
 Client: Toronto Symphonic Orchestra.
