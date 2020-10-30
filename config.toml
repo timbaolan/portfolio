@@ -45,10 +45,10 @@ googleAnalytics = "UA-43728553-1"
     name = "Logo"
     weight = 5
 
-#[[menu.main]]
-#    url = "/web/"
-#    name = "Web Design/Dev"
-#    weight = 6
+[[menu.main]]
+    url = "/web/"
+    name = "Web Design/Dev"
+    weight = 6
 
 
 

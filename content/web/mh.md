@@ -4,10 +4,12 @@ date: 2018-02-13
 draft: true
 ---
 
-![image2](mh-001.jpg)
+{{< figure src="mh-001.jpg" class="web">}}
 
-![image1](mh-002.jpg)
+{{< figure src="mh-002.jpg" class="web mobile" >}}
 
-<br>
-At M&H Polystudios (Montreal).<br>
+Website developped in HTML5, CSS3, JavaScript, Wordpress CMS.
+
+At M&H Polystudios (Montreal).
+
 Client: M&H Polystudios.
