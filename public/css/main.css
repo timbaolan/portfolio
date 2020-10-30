@@ -49,10 +49,6 @@ main {
     font-size: 3vmin;
 }
 
-.intro > h2 > * {
-    float: inherit;
-}
-
 .intro h2 ul {
     margin: auto;
     width: 45%;
@@ -97,7 +93,6 @@ a:hover {
 /*list item for posts and projects*/
 
 .item {
-    float: left;
     padding: 10px 0;
     min-width: 100%;
     text-align: left;
@@ -122,37 +117,19 @@ main h2 {
     color: white;
 }
 
-/* .item p {
+.item p {
     margin: 15px 0;
-} */
+}
+
+.desktop {
+    position: relative;
+    height: 480px;
+    overflow: auto;
+}
 
 iframe {
     border: none;
 }
-
-figure {
-    position: relative;
-    overflow: auto;
-    /* float: left; */
-    border: solid 7px rgba(255,255,255,.1) !important;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    margin: 10px 0 !important;
-}
-
-    figure > img {
-        border: none !important;
-        margin: 0;
-    }
-
-    figure.web {
-        height: 420px;
-    }
-
-    figure.mobile {
-        max-width: 360px;
-    }
 
 /*navigation bar*/
 
@@ -206,8 +183,12 @@ footer {
 
 /* BODY TEXTS */
 
-.item > p {
-    margin: 10px 0 0 0 !important;
+p {
+    float: left;
+}
+
+p:last-of-type {
+    float: inherit;
 }
 
 
