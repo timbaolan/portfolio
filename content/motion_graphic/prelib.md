@@ -1,7 +1,7 @@
 ---
 title: "Prelib"
 date: 2019-02-13
-draft: true
+draft: false
 ---
 
 {{< youtube id="iOmyNIVBpGs" >}}
