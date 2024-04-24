@@ -1,7 +1,7 @@
 ---
 title: "TSO"
 date: 2016-12-25
-draft: true
+draft: false
 ---
 
 {{< youtube id="f9v1kcElIr4" >}}
