@@ -6,6 +6,8 @@ draft: true
 
 {{< youtube id="Mk7Bs8fdYck" >}}
 
-Motion graphics.<br>
-Work done at M&H Polystudios.<br>
+Motion graphics.
+
+Work done at M&H.
+
 Client: Matrix by L'Oréal.

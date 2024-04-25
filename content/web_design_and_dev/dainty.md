@@ -8,7 +8,9 @@ draft: false
 
 {{< figure src="dainty-002.jpg" class="web mobile" >}}
 
-Website developped in HTML5, CSS3, JavaScript, Wordpress CMS. While also participating in the web design process.
+Web development with HTML5, CSS3 (+ Foundation framework), JavaScript, Wordpress CMS.
+
+Web design with Adobe Illustrator, Photoshop, and XD.
 
 At M&H (Montreal).
 

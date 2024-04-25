@@ -6,5 +6,6 @@ draft: true
 
 {{< vimeo id="261386738" >}}
 
-Character design and traditional 2D animation.<br>
+Character design and traditional 2D animation.
+
 At school.

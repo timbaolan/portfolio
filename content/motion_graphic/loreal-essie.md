@@ -8,6 +8,8 @@ draft: false
 
 {{< youtube id="dJ4ohgH9LfI" >}}
 
-Motion graphics.<br>
-Work done at M&H Polystudios.<br>
+Motion graphics.
+
+Work done at M&H.
+
 Client: Essie by L'Oréal.

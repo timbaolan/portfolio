@@ -6,6 +6,8 @@ draft: true
 
 {{< vimeo id="347094039" >}}
 
-Super, lower-third, etc.<br>
-Work done for Haft2 at M&H Polystudios.<br>
+Super, lower-third, etc.
+
+Work done for Haft2 at M&H.
+
 Some full-length works below.

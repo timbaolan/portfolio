@@ -6,6 +6,8 @@ draft: false
 
 {{< vimeo id="261387162" >}}
 
-Short story and animation in Flash, using typography characters only.<br>
-Based on a given theme: “When 2 letters meet”.<br>
+Short story and animation in Flash, using typography characters only.
+
+Based on a given theme: “When 2 letters meet”.
+
 School project.

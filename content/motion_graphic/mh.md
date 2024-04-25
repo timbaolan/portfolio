@@ -6,5 +6,6 @@ draft: true
 
 {{< vimeo id="266947840" >}}
 
-Mini compilation of my work at M&H Polystudios.<br>
+Mini compilation of my work at M&H.
+
 Some full-length works below.
