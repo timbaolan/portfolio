@@ -6,6 +6,8 @@ draft: true
 
 {{< vimeo id="347100146" >}}
 
-Digital poster.<br>
-Work done for sidlee, at M&H Polystudios.<br>
+Digital poster.
+
+Work done for sidlee, at M&H.
+
 Client: Société des Casinos du Québec.

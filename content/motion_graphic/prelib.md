@@ -6,5 +6,6 @@ draft: false
 
 {{< youtube id="iOmyNIVBpGs" >}}
 
-Motion graphics and music editing.<br>
-Work done at M&H Polystudios.
+Motion graphics and music editing.
+
+Work done at M&H.
