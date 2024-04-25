@@ -6,5 +6,6 @@ draft: true
 
 ![image1](cobrateam-001.jpg)
 
-Creation of the logo for my soccer team in Belgium.<br>
+Creation of the logo for my soccer team in Belgium.
+
 Client: Cobra team.
