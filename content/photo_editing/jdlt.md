@@ -8,6 +8,8 @@ draft: false
 
 ![image1](jdlt-001.jpg)
 
-Clean up, various retouching, background bleed, etc.<br>
-At M&H Polystudios (Montreal).<br>
+Clean up, various retouching, background bleed, etc.
+
+At M&H (Montreal).
+
 Client: Jour de la Terre.

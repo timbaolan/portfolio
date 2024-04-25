@@ -1,5 +1,5 @@
 ---
-title: "National Bank (at M&H)"
+title: "National Bank"
 date: 2018-02-13
 draft: false
 ---
@@ -8,6 +8,8 @@ draft: false
 
 ![image1](bn-001.jpg)
 
-Clean up, adding window and new carpet, adjusting to National Bank red colour, various retouching, etc.<br>
-At M&H Polystudios (Montreal).<br>
+Clean up, adding window and new carpet, adjusting to National Bank red colour, various retouching, etc.
+
+At M&H (Montreal).
+
 Client: National Bank.

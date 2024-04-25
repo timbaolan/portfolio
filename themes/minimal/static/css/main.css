@@ -207,7 +207,8 @@ footer {
 /* BODY TEXTS */
 
 .item > p {
-    margin: 10px 0 0 0 !important;
+    /* margin: 10px 0 0 0 !important; */
+    margin: 0;
 }
 
 
@@ -221,6 +222,7 @@ img {
     box-sizing: border-box;
     margin-top: 10px;
     margin-right: 10px;
+    margin-bottom: 10px;
 }
 
     img:nth-child(even) {

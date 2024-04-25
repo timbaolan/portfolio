@@ -11,5 +11,6 @@ draft: false
 ![image4](rising_sun-004.png)
 ![image5](rising_sun-005.png)
 
-Creating a logo with the "rising sun" kanji.<br>
+Creating a logo with the "rising sun" kanji.
+
 Client: Centre d’arts martiaux Rising Sun.

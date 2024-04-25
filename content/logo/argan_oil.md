@@ -6,6 +6,8 @@ draft: false
 
 ![image1](argan_oil-001.jpg)
 
-Creation of a logo and a business card.<br>
-At Biz-net (Belgium).<br>
+Creation of a logo and a business card.
+
+At Biz-net (Belgium).
+
 Client: Pure Argan Oil.
