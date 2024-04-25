@@ -8,8 +8,8 @@ draft: false
 
 ![image1](bn-001.jpg)
 
-Clean up, adding window and new carpet, adjusting to National Bank red colour, various retouching, etc.
+Cleaned up, replaced red carpet, adjusted to National Bank red colour, various retouches, colour corrections, etc.
 
-At M&H (Montreal).
+Agency: M&H
 
-Client: National Bank.
+Client: National Bank

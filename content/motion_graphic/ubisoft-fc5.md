@@ -8,4 +8,6 @@ draft: false
 
 Video editing of promotional videos.
 
-Work done for Ubisoft, at M&H.
+Agency: M&H
+
+Client: Ubisoft

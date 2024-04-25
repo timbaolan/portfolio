@@ -8,6 +8,6 @@ draft: true
 
 Digital poster.
 
-Work done for sidlee, at M&H.
+Agency: M&H
 
-Client: Société des Casinos du Québec.
+Client: Sidlee, for Société des Casinos du Québec.

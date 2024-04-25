@@ -1,5 +1,5 @@
 ---
-title: "Jour de la Terre (at M&H)"
+title: "Jour de la Terre"
 date: 2018-02-13
 draft: false
 ---
@@ -8,8 +8,8 @@ draft: false
 
 ![image1](jdlt-001.jpg)
 
-Clean up, various retouching, background bleed, etc.
+Cleaned up, various retouches, added background bleed, colour corrections, etc.
 
-At M&H (Montreal).
+Agency: M&H
 
-Client: Jour de la Terre.
+Client: Jour de la Terre

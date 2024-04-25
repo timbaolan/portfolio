@@ -8,6 +8,6 @@ draft: true
 
 Motion graphics.
 
-Work done at M&H.
+Agency: M&H
 
-Client: Matrix by L'Oréal.
+Client: L'Oréal

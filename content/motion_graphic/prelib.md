@@ -8,4 +8,6 @@ draft: false
 
 Motion graphics and music editing.
 
-Work done at M&H.
+Agency: M&H
+
+Client: Prelib

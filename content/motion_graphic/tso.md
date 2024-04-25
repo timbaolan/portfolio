@@ -10,6 +10,6 @@ draft: false
 
 Motion graphics, 2D character animation.
 
-Work done for Haft2 at M&H.
+Agency: M&H
 
-Client: Toronto Symphonic Orchestra.
+Client: Haft2, for the Toronto Symphonic Orchestra
