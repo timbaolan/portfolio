@@ -6,8 +6,8 @@ draft: true
 
 {{< vimeo id="347094039" >}}
 
-Super, lower-third, etc.
+Logo animation, hero, lower-third, etc.
 
-Work done for Haft2 at M&H.
+Agency: M&H
 
-Some full-length works below.
+Client: Haft2

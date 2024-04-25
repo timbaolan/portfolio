@@ -10,6 +10,6 @@ draft: false
 
 Motion graphics.
 
-Work done at M&H.
+Agency: M&H
 
-Client: Essie by L'Oréal.
+Client: L'Oréal
