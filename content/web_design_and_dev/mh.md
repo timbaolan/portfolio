@@ -1,5 +1,5 @@
 ---
-title: "M&H Polystudios"
+title: "M&H"
 date: 2018-02-13
 draft: false
 ---

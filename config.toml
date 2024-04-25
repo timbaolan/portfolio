@@ -1,20 +1,26 @@
 publishDir = "public"
 # baseURL = "https://www.timbaolan.com/"
 languageCode = "en-us"
-title = "baolan"
+title = "motion / graphic / web design & digital art"
 theme = "minimal"
 # disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = "UA-43728553-1"
-
+pluralizelisttitles = false
 
 [params]
     author = "Bao-Lan Nguyen-Phuoc"
-    description = "Motion Designer, Digital Artist.\n\n- After Effects, Premiere, Animate\n- Photoshop, Illustrator, InDesign\n- Notions in sound design and in 3DsMax"
+    description = "\n- After Effects, Premiere Pro, Hype, Google Web Designer \n- Photoshop, Illustrator, InDesign, Dimension, XD, Figma \n- Basics in Audition, C4D, Blender, 3DsMax"
     githubUsername = "timbaolan"
     accent = "#0ae"
     showBorder = true
     backgroundColor = "#101215"
-    font = "Roboto" # should match the name on Google Fonts!
+    font = "Open Sans" # should match the name on Google Fonts!
+    google_fonts = [
+        ["Gruppo"],
+        ["Open Sans"]
+    ]
+    heading_font = "Gruppo"
+    body_font = "Open Sans"
     highlight = true
     highlightStyle = "solarized-dark"
     # highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
@@ -46,8 +52,8 @@ googleAnalytics = "UA-43728553-1"
     weight = 5
 
 [[menu.main]]
-    url = "/web/"
-    name = "Web Design/Dev"
+    url = "/web_design_and_dev/"
+    name = "Web design & dev"
     weight = 6
 
 
