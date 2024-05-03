@@ -32,28 +32,28 @@ pluralizelisttitles = false
 #     weight = 1
 
 [[menu.main]]
-    url = "/motion_graphic/"
-    name = "Motion Graphic"
+    url = "/motion_design/"
+    name = "Motion Design"
     weight = 2
+
+[[menu.main]]
+    url = "/graphic_design/"
+    name = "Graphic Design"
+    weight = 3
+
+[[menu.main]]
+    url = "/web_design_and_dev/"
+    name = "Web Design & Dev"
+    weight = 4
+
+[[menu.main]]
+    url = "/image_editing/"
+    name = "Image Editing"
+    weight = 5
 
 [[menu.main]]
     url = "/digital_art/"
     name = "Digital Art"
-    weight = 3
-
-[[menu.main]]
-    url = "/photo_editing/"
-    name = "Photo Editing"
-    weight = 4
-
-[[menu.main]]
-    url = "/logo/"
-    name = "Logo"
-    weight = 5
-
-[[menu.main]]
-    url = "/web_design_and_dev/"
-    name = "Web design & dev"
     weight = 6
 
 
