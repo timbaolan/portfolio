@@ -1,7 +1,7 @@
 publishDir = "public"
 # baseURL = "https://www.timbaolan.com/"
 languageCode = "en-us"
-title = "motion / graphic / web design & digital art"
+title = "motion / graphic / web design, web dev"
 theme = "minimal"
 # disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = "UA-43728553-1"
@@ -9,7 +9,7 @@ pluralizelisttitles = false
 
 [params]
     author = "Bao-Lan Nguyen-Phuoc"
-    description = "\n- After Effects, Premiere Pro, Hype, Google Web Designer \n- Photoshop, Illustrator, InDesign, Dimension, XD, Figma \n- Basics in Audition, C4D, Blender, 3DsMax"
+    description = "\n- After Effects, Premiere Pro, Hype, Google Web Designer \n- Photoshop, Illustrator, InDesign, Dimension, XD, Figma \n- HTML, CSS (+ Foundation, Bootstrap, TailwindCSS), JavaScript (+ GSAP, ThreeJS, React)"
     githubUsername = "timbaolan"
     accent = "#0ae"
     showBorder = true
