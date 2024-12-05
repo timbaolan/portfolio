@@ -1,5 +1,6 @@
-html, body {
+html, html body {
     height: 100%;
+    background-color: var(--darkBG);
 }
 
 body {
@@ -13,7 +14,7 @@ main {
     margin: auto;
     padding: 20px;
     flex: 1 0 auto;
-    max-width: 800px;
+    max-width: 960px;
     width: 100%;
 }
 
@@ -35,6 +36,9 @@ main {
 
 h1, main > h2:first-of-type {
     font-family: 'Gruppo' !important;
+}
+main > h2:first-of-type {
+    text-transform: capitalize;
 }
 
 
@@ -106,6 +110,7 @@ a:hover {
     padding: 10px 0;
     min-width: 100%;
     text-align: left;
+    margin: 50px 0;
 }
 
 .item-tag {
@@ -117,10 +122,14 @@ main h2 {
 }
 
 .item h2 {
-    color: var(--accent);
+    color: white;
     /* font-family: sans-serif; */
     font-weight: bold;
-    font-size: 1.2em;
+    font-size: 1.5em;
+    /* background-color: rgba( var(--accentRGB), 0.125 ); */
+    padding: 40px;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 .item h5, .item p {
@@ -131,6 +140,13 @@ main h2 {
     margin: 15px 0;
 } */
 
+.item > div {
+    margin-top: 10px;
+}
+.item > div:first-of-type {
+    margin-top: initial;
+}
+
 iframe {
     border: none;
 }
@@ -139,7 +155,7 @@ figure {
     position: relative;
     overflow: auto;
     /* float: left; */
-    border: solid 7px rgba(255,255,255,.1) !important;
+    /* border: solid 7px rgba(255,255,255,.1) !important; */
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -162,13 +178,13 @@ figure {
 /*navigation bar*/
 
 .navbar.navbar-default {
-    background-color: #101215;
+    background-color: var(--darkBG);
     border-bottom: none;
 }
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    background-color: var(--darkBG);
     border-top: solid 0px transparent !important;
-    background-color: rgba(255,255,255,0.02);
 }
 
 .navbar-default .navbar-toggle {
@@ -186,7 +202,7 @@ figure {
 /*navigation bar icons*/
 
 .navbar-icon {
-    font-size: 125%;
+    /* font-size: 125%; */
     display: inline-block !important;
 }
 
@@ -225,11 +241,11 @@ footer {
 
 img {
     float: left;
-    border: solid 7px rgba(255,255,255,.1) !important;
+    /* border: solid 7px rgba(255,255,255,.1) !important; */
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    margin-top: 10px;
+    /* margin-top: 10px; */
     margin-right: 10px;
     margin-bottom: 10px;
 }

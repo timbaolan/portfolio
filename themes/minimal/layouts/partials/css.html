@@ -1,13 +1,14 @@
 <style>
 
-    html body {
-        font-family: '{{ .Site.Params.font }}', sans-serif;
-        background-color: {{ .Site.Params.backgroundColor | default "white" }};
-    }
-
     :root {
         --accent: {{ .Site.Params.accent | default "#2196F3" }};
+        --accentRGB: {{ .Site.Params.accentRGB | default "33, 150, 243" }};
+        --darkBG: {{ .Site.Params.darkBG | default "#101215" }};
         --border-width: {{ if .Site.Params.showBorder | default false }} 5px {{ else }} 0 {{ end }};
+    }
+
+    html body {
+        font-family: '{{ .Site.Params.font }}', "-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif";
     }
 
 </style>
