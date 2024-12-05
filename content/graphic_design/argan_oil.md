@@ -1,7 +1,7 @@
 ---
 title: "Pure argan oil"
 date: 2006-01-01
-draft: false
+draft: true
 ---
 
 ![image1](argan_oil-001.jpg)

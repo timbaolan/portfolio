@@ -4,12 +4,10 @@ date: 2018-02-13
 draft: false
 ---
 
-![image2](bn-002.jpg)
+![image1](advertising_image_editing-NB.jpg)
 
-![image1](bn-001.jpg)
+Cleaned up, replaced red carpet, various retouches, colour corrections, adjusted to the official red of the National Bank, etc.
 
-Cleaned up, replaced red carpet, adjusted to National Bank red colour, various retouches, colour corrections, etc.
-
-Agency: M&H
+Agency: M&H for Sidlee
 
 Client: National Bank

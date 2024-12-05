@@ -10,4 +10,4 @@ Motion graphics.
 
 Agency: M&H
 
-Client: L'Oréal
+Client: Matrix, L'Oréal

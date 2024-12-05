@@ -1,7 +1,7 @@
 ---
 title: "Jutoba"
 date: 2012-01-01
-draft: false
+draft: true
 ---
 
 ![image1](jutoba-001.jpg)
