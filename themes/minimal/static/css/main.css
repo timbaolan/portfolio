@@ -218,6 +218,11 @@ figure {
 .navbar-default .navbar-nav>li>a:focus,
 .navbar-default .navbar-nav>li>a:hover {
     color: white !important;
+    background-color: inherit !important;
+}
+
+.nav>li>a:focus, .nav>li>a:hover {
+    background-color: inherit !important;
 }
 
 /*coloured borders at top and bottom of the page*/
