@@ -47,14 +47,9 @@ pluralizelisttitles = false
     weight = 4
 
 [[menu.main]]
-    url = "/image_editing/"
-    name = "Image Editing"
-    weight = 5
-
-[[menu.main]]
     url = "/digital_art/"
     name = "Digital Art"
-    weight = 6
+    weight = 5
 
 
 

@@ -27,19 +27,19 @@
             {{ end }}
 
             {{ if .Site.Menus.icon }}
-                <ul class="nav navbar-nav navbar-right">
-                    {{ range sort .Site.Menus.icon }}
-                        <li class="navbar-icon"><a href="{{ .URL }}" target="_blank">
-                            {{ if ne .Name "artstation" }}
-                                <i class="fa fa-{{ .Name }}"></i>
-                            {{ end }}
-                            {{ if eq .Name "artstation" }}
-                                <i class="fab fa-{{ .Name }}"></i>
-                            {{ end }}
-                        </a></li>
-                    {{ end }}
-                </ul>
-            {{ end }}
+            <ul class="nav navbar-nav navbar-right">
+                {{ range sort .Site.Menus.icon }}
+                    <li class="navbar-icon"><a href="{{ .URL }}" target="_blank">
+                        {{ if ne .Name "artstation" }}
+                            <i class="fa fa-{{ .Name }}"></i>
+                        {{ end }}
+                        {{ if eq .Name "artstation" }}
+                            <i class="fab fa-{{ .Name }}"></i>
+                        {{ end }}
+                    </a></li>
+                {{ end }}
+            </ul>
+        {{ end }}
 
         </div>
 
