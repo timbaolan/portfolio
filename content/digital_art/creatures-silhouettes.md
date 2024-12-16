@@ -9,5 +9,5 @@ draft: false
 ![image2](creatures-silhouettes-002.jpg)
 ![image3](creatures-silhouettes-003.jpg)
 
-Concept art training.<br>
+##### Concept art training.<br>
 Trying <a href="https://www.youtube.com/user/FZDSCHOOL" target="_blank">Feng Zhu Design</a> silhouette-start technique.

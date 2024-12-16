@@ -6,7 +6,7 @@ draft: true
 
 ![image1](argan_oil-001.jpg)
 
-Creation of a logo and a business card.
+##### Creation of a logo and a business card.
 
 At Biz-net (Belgium).
 

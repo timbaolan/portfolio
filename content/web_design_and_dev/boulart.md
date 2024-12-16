@@ -11,10 +11,10 @@ draft: false
 
 ![image2](web-boulart-002.jpg)
 
-Web development with HTML5, CSS3 (+ Foundation framework), JavaScript, Wordpress CMS.
+##### Web development with HTML5, CSS3 (+ Foundation framework), JavaScript, Wordpress CMS.
 
 Web design with Adobe Illustrator and Photoshop.
 
-At M&H (Montreal).
+Agency: M&H
 
-Client: Boulart.
+Client: Boulart

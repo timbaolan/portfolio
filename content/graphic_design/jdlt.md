@@ -6,7 +6,7 @@ draft: false
 
 ![image1](advertising_image_editing-JDLT.jpg)
 
-Cleaned up, various retouches, floor repairing, added background bleed, colour corrections, etc.
+##### Cleaned up, various retouches, floor repairing, added background bleed, colour corrections, etc.
 
 Agency: M&H
 

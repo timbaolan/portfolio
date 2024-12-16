@@ -6,5 +6,5 @@ draft: false
 
 ![image1](skeleton-arm-001.jpg)
 
-Modeling and texturing a bones arm.<br>
+##### Modeling and texturing a bones arm.<br>
 At HEAJ school (Belgium).

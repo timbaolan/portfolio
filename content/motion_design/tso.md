@@ -8,7 +8,7 @@ draft: false
 
 {{< youtube id="6W3n9mVA94o" >}}
 
-Motion graphics, 2D character animation.
+##### Motion graphics, 2D character animation.
 
 Agency: M&H
 

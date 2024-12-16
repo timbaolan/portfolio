@@ -11,10 +11,10 @@ draft: false
 
 ![image2](web-dainty-002.jpg)
 
-Web development with HTML5, CSS3 (+ Foundation framework), JavaScript, Wordpress CMS.
+##### Web development with HTML5, CSS3 (+ Foundation framework), JavaScript, Wordpress CMS.
 
 Web design with Adobe Illustrator, Photoshop, and XD.
 
-At M&H (Montreal).
+Agency: M&H
 
-Client: Dainty rice.
+Client: Dainty rice

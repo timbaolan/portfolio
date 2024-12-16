@@ -9,4 +9,4 @@ draft: false
 ![image2](bl-bos-002.jpg)
 ![image1](bl-bos-001.jpg)
 
-Self-portrait as a Boston Celtics player.
+##### Self-portrait as a Boston Celtics player.

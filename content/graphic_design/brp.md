@@ -6,7 +6,7 @@ draft: false
 
 ![image1](advertising_image_editing-BRP.jpg)
 
-Image composition, various retouches, colour corrections, etc. For a YouTube banner.
+##### Image composition, various retouches, colour corrections, etc. For a YouTube banner.
 
 Agency: Freelance
 
