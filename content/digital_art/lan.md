@@ -10,4 +10,4 @@ draft: false
 ![image3](lan-003.jpg)
 ![image4](lan-004.jpg)
 
-Personal project: illustration made in 3 variations for my hallway wall.
+##### Personal project: illustration made in 3 variations for my hallway wall.

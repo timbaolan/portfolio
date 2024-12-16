@@ -12,7 +12,7 @@ draft: false
 
 ![image4](brp_bf2024-004.jpg)
 
-Black Friday and Cyber Monday Campaign featuring BRP's 4 main brands.
+##### Black Friday and Cyber Monday Campaign featuring BRP's 4 main brands.
 
 Digital integration: social videos, static and animated web banners, image editing, format variations, etc.
 

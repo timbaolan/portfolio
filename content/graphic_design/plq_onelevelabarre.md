@@ -4,16 +4,17 @@ date: 2022-09-12
 draft: false
 ---
 
+![image4](plq_onelevelabarre-004.jpg)
+![image5](plq_onelevelabarre-005.gif)
+
 ![image1](plq_onelevelabarre-001.jpg)
 
 ![image2](plq_onelevelabarre-002.jpg)
 ![image3](plq_onelevelabarre-003.jpg)
-![image4](plq_onelevelabarre-004.jpg)
-![image5](plq_onelevelabarre-005.gif)
 
 
 <!-- Campagne 360 valorisant leur démarche de développement durable orientée vers la carboneutralité. -->
-360 campaign promoting their sustainable development approach oriented towards carbon neutrality.
+##### 360 campaign promoting their sustainable development approach oriented towards carbon neutrality.
 
 <!-- Intégration numérique: bannières web statiques et animées, publicité LaPresse+, retouche d'images, déclinaisons de formats. -->
 Digital integration: static and animated web banners, LaPresse+ advertising, image editing, format variations.

@@ -6,7 +6,7 @@ draft: false
 
 ![image1](advertising_image_editing-NB.jpg)
 
-Cleaned up, replaced red carpet, various retouches, colour corrections, adjusted to the official red of the National Bank, etc.
+##### Cleaned up, replaced red carpet, various retouches, colour corrections, adjusted to the official red of the National Bank, etc.
 
 Agency: M&H for Sidlee
 

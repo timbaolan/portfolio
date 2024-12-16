@@ -9,4 +9,5 @@ draft: false
 ![image2](satsuma-imo-002.jpg)
 ![image3](satsuma-imo-003.jpg)
 
-Personal project: keychain for my extra keys I gave to my girlfriend.
+
+##### Personal project: keychain for my extra keys I gave to my girlfriend.

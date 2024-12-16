@@ -11,10 +11,10 @@ draft: false
 
 ![image2](web-mh-002.jpg)
 
-Web development with HTML5, CSS3 (+ Foundation framework), JavaScript, Wordpress CMS.
+##### Web development with HTML5, CSS3 (+ Foundation framework), JavaScript, Wordpress CMS.
 
 Web design with Adobe Photoshop.
 
-At M&H (Montreal).
+Agency: M&H
 
-Client: M&H.
+Client: M&H
