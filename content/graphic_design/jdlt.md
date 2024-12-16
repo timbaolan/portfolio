@@ -8,6 +8,6 @@ draft: false
 
 ##### Cleaned up, various retouches, floor repairing, added background bleed, colour corrections, etc.
 
-Agency: M&H
+Agency: M&H for Sidlee
 
-Client: Sidlee, for Earth day / Jour de la Terre
+Client: Earth day / Jour de la Terre

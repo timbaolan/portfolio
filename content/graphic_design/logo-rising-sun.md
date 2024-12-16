@@ -8,11 +8,12 @@ draft: false
 
 ![image6](logo-rising_sun-3d_building.jpg)
 
-<!-- ![image3](logo-rising_sun-003.png)
-
-![image5](logo-rising_sun-005.png) -->
+![image3](logo-rising_sun-003.png)
+![image5](logo-rising_sun-005.png)
 
 
 ##### Creating a logo with the "rising sun" kanji.
+
+Agency: Freelance
 
 Client: Centre d’arts martiaux Rising Sun.
