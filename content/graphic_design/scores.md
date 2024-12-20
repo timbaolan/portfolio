@@ -1,5 +1,6 @@
 ---
 title: "Scores"
+subtitle: "Image retouching for the client"
 date: 2019-02-13
 draft: false
 ---

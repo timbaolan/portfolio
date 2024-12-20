@@ -1,5 +1,6 @@
 ---
 title: "Jutoba"
+subtitle: "Creation of a logo and mascot"
 date: 2012-01-01
 draft: true
 ---

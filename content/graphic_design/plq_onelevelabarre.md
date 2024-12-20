@@ -1,5 +1,6 @@
 ---
-title: "PLQ - On élève la barre"
+title: "PLQ - Les Producteurs de lait du Québec"
+subtitle: "'On élève la barre' 360 campaign"
 date: 2022-09-12
 draft: false
 ---

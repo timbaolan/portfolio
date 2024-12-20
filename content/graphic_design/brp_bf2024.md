@@ -1,5 +1,6 @@
 ---
-title: "BRP - Black friday / Cyber Monday 2024"
+title: "BRP - Bombardier Recreational Products"
+subtitle: "Black friday / Cyber Monday 2024 Digital Campaign"
 date: 2024-09-09
 draft: false
 ---

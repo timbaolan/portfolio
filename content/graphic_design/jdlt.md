@@ -1,5 +1,6 @@
 ---
-title: "Earth Day / Jour de la Terre"
+title: "Earth Day"
+subtitle: "Image retouching for the client"
 date: 2018-02-13
 draft: false
 ---

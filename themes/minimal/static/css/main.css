@@ -125,20 +125,29 @@ a:hover {
     background-color: var(--accent);
 }
 
-main h2 {
+main h2, main h3 {
     color: white;
 }
 
-.item h2 {
+.item h2, .item h3 {
     color: white;
+    /* background-color: rgba( var(--accentRGB), 0.125 ); */
     /* font-family: sans-serif; */
     font-weight: bold;
-    font-size: 1.5em;
-    /* background-color: rgba( var(--accentRGB), 0.125 ); */
+    font-size: 2em;
     text-align: center;
+}
+
+.item h2 {
     text-transform: uppercase;
     padding: 40px 0;
-    margin: 0 0 40px 0;
+    margin: 0;
+}
+
+.item h3 {
+    padding: 10px 0 40px 0;
+    margin:  -40px 0 40px 0;
+    font-size: 1.25em;
 }
 
 .item h5, .item p {

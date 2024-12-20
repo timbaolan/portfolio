@@ -1,5 +1,6 @@
 ---
-title: "PLQ - Yogourt"
+title: "PLQ - Les Producteurs de lait du Québec"
+subtitle: "'Yogourt' 360 campaign"
 date: 2022-02-09
 draft: false
 ---
