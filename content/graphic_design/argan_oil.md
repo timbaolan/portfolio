@@ -1,5 +1,6 @@
 ---
 title: "Pure argan oil"
+subtitle: "Logo and business card"
 date: 2006-01-01
 draft: true
 ---

@@ -1,5 +1,6 @@
 ---
-title: "Bombardier Recreational Products - Can-Am"
+title: "BRP - Bombardier Recreational Products"
+subtitle: "Can-Am 2025 Line-up Social Teaser"
 date: 2024-02-13
 draft: false
 ---
